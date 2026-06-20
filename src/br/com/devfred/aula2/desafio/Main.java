@@ -1,7 +1,7 @@
-package br.com.devfred.secao2.desafio;
+package br.com.devfred.aula2.desafio;
 
-import br.com.devfred.secao2.desafio.entities.Produto;
-import br.com.devfred.secao2.desafio.entities.ProdutoPerecivel;
+import br.com.devfred.aula2.desafio.entities.Produto;
+import br.com.devfred.aula2.desafio.entities.ProdutoPerecivel;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;

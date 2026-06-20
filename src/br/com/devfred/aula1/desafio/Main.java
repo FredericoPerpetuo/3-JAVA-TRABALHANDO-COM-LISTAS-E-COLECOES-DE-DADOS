@@ -1,10 +1,8 @@
-package br.com.devfred.secao1.desafio;
+package br.com.devfred.aula1.desafio;
 
-import br.com.devfred.secao1.desafio.entities.Pessoa;
+import br.com.devfred.aula1.desafio.entities.Pessoa;
 
-import java.sql.SQLOutput;
 import java.util.ArrayList;
-import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package br.com.devfred.secao1.desafio.entities;
+package br.com.devfred.aula1.desafio.entities;
 
 public class Pessoa {
     private String nome;

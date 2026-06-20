@@ -1,4 +1,4 @@
-package br.com.devfred.secao2.desafio.entities;
+package br.com.devfred.aula2.desafio.entities;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
